@@ -6,7 +6,7 @@ description = ""
 authors = ['Leenuus']
 tags = []
 series = []
-categories = ['Programming']
+categories = ['programming']
 +++
 
 ## Today's Song
