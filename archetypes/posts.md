@@ -1,12 +1,18 @@
 +++ 
 draft = true
 date = {{ .Date }}
-title = ""
+title = "{{ .File.BaseFileName | title }}"
 description = ""
-authors = []
+authors = ['Leenuus']
 tags = []
-categories = ['programming']
-# slug = ""
-# externalLink = ""
-# series = []
+series = []
+categories = ['Programming']
 +++
+
+## Today's Song
+
+
+## References
+
+
+## Resources
